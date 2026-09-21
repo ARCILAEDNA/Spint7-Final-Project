@@ -17,8 +17,7 @@ El dataset 'usage.csv' incluye el detalle de uso real como número de llamadas, 
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/ARCILAEDNA/Spint7-Final-Project/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARCILAEDNA/Spint7-Final-Project/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
